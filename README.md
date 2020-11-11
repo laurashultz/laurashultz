@@ -1,6 +1,6 @@
 # loofmot (she/her)
 ## About me
-Hi! I a mechanical engineer by day, but I love learning new things in my free time!
+Hi! I'm a mechanical engineer by day, but I love learning new things in my free time!
 * Have dabbled in programming but never found the time to really *commit*
 * As a teen I used to make super silly websites for fun using pure html
 * Have no hobbies but love to do everything
