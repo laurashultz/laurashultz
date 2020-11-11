@@ -1,7 +1,7 @@
 # loofmot (she/her)
 ## About me
 Hi! I a mechanical engineer by day, but I love learning new things in my free time!
-* Have dabbled in programming but never found the time to really **commit**
+* Have dabbled in programming but never found the time to really *commit*
 * As a teen I used to make super silly websites for fun using pure html
 * Have no hobbies but love to do everything
 
@@ -10,7 +10,7 @@ Hi! I a mechanical engineer by day, but I love learning new things in my free ti
 * Working toward learning the MERN stack
 
 ### 🔭 I’m currently working on
-* [Freecodecamp](https://www.freecodecamp.org) front end certifications
+* [FreeCodeCamp](https://www.freecodecamp.org) front end certifications
 
 <!--
 **loofmot/loofmot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
