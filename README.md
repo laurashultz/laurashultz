@@ -1,4 +1,4 @@
-# laurashultz (she/her)
+# Laura (she/her)
 ## About me
 Hi! I'm a mechanical engineer by day, but I love learning new things in my free time!
 * Have dabbled in programming but never found the time to really *commit*
