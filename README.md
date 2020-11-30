@@ -6,11 +6,11 @@ Hi! I'm a mechanical engineer by day, but I love learning new things in my free 
 * Have no hobbies but love to do everything
 
 ### 🌱 I’m currently learning
-* React / Redux
-* Working toward learning the MERN stack
+* Java
+* Building GUIs from scratch with Swing
 
 ### 🔭 I’m currently working on
-* [FreeCodeCamp](https://www.freecodecamp.org) front end certifications
+* A small Java app to make my day job easier
 
 <!--
 **loofmot/loofmot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
