@@ -1,7 +1,6 @@
-# Laura (she/her)
+# Laura
 ## About me
-Hi! I'm a mechanical engineer by day, but I love learning new things in my free time!
-* Have dabbled in programming but never found the time to really *commit*
+Hi! I'm currently a mechanical engineer by day, but I love learning new things in my free time!
 * As a teen I used to make super silly websites for fun using pure html
 * Have no hobbies but love to do everything
 
