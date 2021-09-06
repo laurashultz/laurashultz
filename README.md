@@ -1,15 +1,16 @@
-# Laura
+# Laura (she/her)
 ## About me
 Hi! I'm currently a mechanical engineer by day, but I love learning new things in my free time!
 * As a teen I used to make super silly websites for fun using pure html
 * Have no hobbies but love to do everything
+* Working on a second bachelor's degree in Computer Science
 
 ### 🌱 I’m currently learning
 * Java
-* Building GUIs from scratch with Swing
+* Web development
 
 ### 🔭 I’m currently working on
-* A small Java app to make my day job easier
+* Homework!
 
 <!--
 **loofmot/loofmot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
